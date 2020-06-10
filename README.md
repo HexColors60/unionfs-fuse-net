@@ -5,6 +5,7 @@ unionfs-fuse-net
 ============
 
 Custom actions for personal use.
+I have some idea, but don't do any yet.
 
 unionfs-fuse
 ============
